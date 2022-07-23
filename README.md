@@ -10,4 +10,4 @@ Danny has shared with you 3 key datasets for this case study:
 
 ## Entity Relationship Diagram
 
-![alt text](Pasted image 20220723132033.png)
+![alt text](danny.png)
